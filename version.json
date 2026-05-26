@@ -1,0 +1,15 @@
+{
+  "latest_version": "0.1",
+  "force_update": false,
+  "title": "当前已是最新版本",
+  "message": "当前版本为 v0.1，暂无更新。",
+  "download_url": "https://github.com/zhongyanzhongyu/juli-ai-media-tool/releases/latest",
+  "repo_url": "https://github.com/zhongyanzhongyu/juli-ai-media-tool",
+  "changelog": [
+    "支持按 SRT 字幕时间轴切割音频",
+    "支持关键词筛选与排除",
+    "支持 TXT 关键词导入导出",
+    "支持联系与交流双二维码入口",
+    "支持深色 / 浅色主题切换"
+  ]
+}
