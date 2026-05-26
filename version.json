@@ -1,8 +1,8 @@
 {
-  "latest_version": "0.2",
+  "latest_version": "0.1",
   "force_update": false,
   "title": "当前已是最新版本",
-  "message": "当前版本为 v0.2，暂无更新。",
+  "message": "当前版本为 v0.1，暂无更新。",
   "download_url": "https://github.com/zhongyanzhongyu/juli-ai-media-tool/releases/latest",
   "repo_url": "https://github.com/zhongyanzhongyu/juli-ai-media-tool",
   "changelog": [
