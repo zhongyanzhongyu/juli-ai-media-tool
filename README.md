@@ -4,6 +4,9 @@
 
 当前版本主要支持根据 SRT 字幕时间轴，对音频进行自动切割，并支持片段合并、关键词筛选、片段排除、词库导入导出等功能。
 
+<img width="1660" height="930" alt="image" src="https://github.com/user-attachments/assets/6402259a-a035-4811-9073-eaab83643fb9" />
+
+
 ## 主要功能
 
 - 基于 SRT 字幕时间轴切割音频
